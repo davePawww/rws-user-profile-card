@@ -3,3 +3,4 @@ export { ProfileTexts } from '@/features/profile-card/components/profile-texts';
 export { Stats } from '@/features/profile-card/components/stats';
 export { Socials } from '@/features/profile-card/components/socials';
 export { StatusIndicator } from '@/features/profile-card/components/status-indicator';
+export { VerifiedBadge } from '@/features/profile-card/components/verified-badge';
