@@ -7,17 +7,17 @@ export function Stats() {
       <CardContent className="flex items-center justify-around">
         <div className="text-center">
           <h3 className="text-lg font-medium">3.8k</h3>
-          <p className="text-muted-foreground text-sm">Likes</p>
+          <p className="text-muted-foreground text-xs">Likes</p>
         </div>
         <Separator orientation="vertical" className="mx-4" />
         <div className="text-center">
           <h3 className="text-lg font-medium">1.6k</h3>
-          <p className="text-muted-foreground text-sm">Posts</p>
+          <p className="text-muted-foreground text-xs">Posts</p>
         </div>
         <Separator orientation="vertical" className="mx-4" />
         <div className="text-center">
           <h3 className="text-lg font-medium">8.2m</h3>
-          <p className="text-muted-foreground text-sm">Views</p>
+          <p className="text-muted-foreground text-xs">Views</p>
         </div>
       </CardContent>
     </Card>
